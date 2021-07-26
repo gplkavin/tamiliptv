@@ -5,6 +5,9 @@ http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40824.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 2
 http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40824.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 3
+http://212.224.98.213:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Entertainment",Kalaignar TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
