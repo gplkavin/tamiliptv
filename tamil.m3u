@@ -11,6 +11,9 @@ http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40824.ts
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538" group-title="Tamil;Entertainment",Jaya TV HD
+https://jio.instream.ml/jio.php?c=Jaya_TV_HD&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Zee_Tamil_HD.jpg/revision/latest/scale-to-width-down/280?cb=20171105152922" group-title="Tamil;Entertainment",Zee Tamil HD
 http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40835.ts
 
