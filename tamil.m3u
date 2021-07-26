@@ -33,7 +33,7 @@ http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40832.ts
 http://212.224.98.213:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="Tamil;Movies",Zee Thirai
-https://rftv.xyz/zee5/zeeplay.php?c=0-9-224
+http://152.89.62.111:8080/88888/99999/273045
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil;Comedy",Adithya TV
 https://suntvvodaf-live.s.llnwi.net:443/AdithyaTV/AdithyaTV.isml/manifest.mpd
