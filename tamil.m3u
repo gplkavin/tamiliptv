@@ -39,7 +39,7 @@ http://152.89.62.111:8080/88888/99999/273045
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1627992149~exp=1627995149~acl=/*~hmac=f2d54ebefda64fcc78aeb840863402a457938ceb801015dc5a13106346a212b3
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/250?cb=20180318045832" group-title="Tamil;Comedy",Adithya TV
-https://suntvvodaf-live.s.llnwi.net:443/AdithyaTV/AdithyaTV.isml/manifest.mpd
+http://watchindia.net:8880/live/60275/20486/855.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Sirippoli_tv.jpg/revision/latest/scale-to-width-down/150?cb=20191224115900" group-title="Tamil International;Comedy",Sirippoli
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
