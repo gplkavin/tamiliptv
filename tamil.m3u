@@ -21,7 +21,7 @@ https://jio.instream.ml/jio.php?c=Jaya_TV_HD&q=800&e=.m3u8
 http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40835.ts
 
 #EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
+http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40828.ts
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV HD
 https://suntvvodaf-live.s.llnwi.net:443/KTVHD/KTVHD.isml/manifest.mpd
